@@ -1,0 +1,1407 @@
+﻿Log file open, 02/03/18 11:42:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TimeWar
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1677224900) SRandInit(1677224900).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.240845
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Binaries/Win64/UE4Editor-TimeWar.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.03-19.42.34:277][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.03-19.42.34:277][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.03-19.42.34:302][  0]LogInit: Computer: NOAH-DESKTOP
+[2018.02.03-19.42.34:303][  0]LogInit: User: USER
+[2018.02.03-19.42.34:303][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.02.03-19.42.34:303][  0]LogInit: High frequency timer resolution =3.222651 MHz
+[2018.02.03-19.42.34:303][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2018.02.03-19.42.34:303][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.03-19.42.34:303][  0]LogMemory: Process Physical Memory: 274.28 MB used, 274.28 MB peak
+[2018.02.03-19.42.34:303][  0]LogMemory: Process Virtual Memory: 272.38 MB used, 272.38 MB peak
+[2018.02.03-19.42.34:303][  0]LogMemory: Physical Memory: 5902.66 MB used,  59534.93 MB free, 65437.59 MB total
+[2018.02.03-19.42.34:303][  0]LogMemory: Virtual Memory: 651.76 MB used,  59534.93 MB free, 134217728.00 MB total
+[2018.02.03-19.42.34:720][  0]LogInit: Using OS detected language (en-US).
+[2018.02.03-19.42.34:720][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.03-19.42.34:723][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.03-19.42.35:101][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.03-19.42.35:438][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.03-19.42.35:509][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.02.03-19.42.35:509][  0]LogD3D11RHI:       4062/0/32718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.03-19.42.35:510][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.03-19.42.35:510][  0]LogD3D11RHI:       0/0/32718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.03-19.42.35:510][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.03-19.42.35:513][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.03-19.42.35:514][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.03-19.42.35:514][  0]LogWindows: EnumDisplayDevices:
+[2018.02.03-19.42.35:514][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.02.03-19.42.35:514][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.03-19.42.35:514][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.03-19.42.35:514][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.03-19.42.35:514][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.02.03-19.42.35:514][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.02.03-19.42.35:514][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.02.03-19.42.35:514][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.02.03-19.42.35:514][  0]LogRHI: Texture pool is 2843 MB (70% of 4062 MB)
+[2018.02.03-19.42.35:549][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.03-19.42.35:562][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.03-19.42.35:563][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Intermediate/Shaders/WorkingDirectory/2372/).
+[2018.02.03-19.42.35:563][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/65A0F19444609293CFBD99847C73F6D0/'.
+[2018.02.03-19.42.35:563][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.03-19.42.36:895][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.03-19.42.37:013][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.03-19.42.37:096][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.03-19.42.37:185][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.03-19.42.37:288][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.03-19.42.37:405][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.03-19.42.37:495][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.03-19.42.37:585][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.03-19.42.37:672][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.03-19.42.37:766][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.03-19.42.37:869][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.03-19.42.37:950][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.03-19.42.38:031][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.03-19.42.38:111][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.03-19.42.38:271][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.03-19.42.38:271][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.03-19.42.38:352][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.03-19.42.38:423][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.03-19.42.38:558][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.03-19.42.38:625][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.03-19.42.38:714][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.03-19.42.38:797][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.03-19.42.38:878][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.03-19.42.38:980][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.03-19.42.38:980][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.03-19.42.39:921][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.03-19.42.40:011][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.03-19.42.40:011][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.03-19.42.40:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.03-19.42.40:012][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.03-19.42.40:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.03-19.42.40:012][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.03-19.42.40:042][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.03-19.42.40:055][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.03-19.42.40:068][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.03-19.42.40:068][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.03-19.42.40:069][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.03-19.42.40:069][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.03-19.42.40:542][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.03-19.42.41:227][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.03-19.42.41:302][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.03-19.42.41:302][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.03-19.42.41:302][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.03-19.42.41:302][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.03-19.42.41:302][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.03-19.42.41:341][  0]LogNetVersion: TimeWar , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3464015283)
+[2018.02.03-19.42.41:563][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.02.03-19.42.42:309][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.075120 seconds
+[2018.02.03-19.42.42:313][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.03-19.42.42:313][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.03-19.42.42:313][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.03-19.42.42:409][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.03-19.42.46:677][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.03-19.42.46:734][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.03-19.42.48:212][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.03-19.42.48:877][  0]SourceControl: Source control is disabled
+[2018.02.03-19.42.48:877][  0]SourceControl: Source control is disabled
+[2018.02.03-19.42.48:968][  0]SourceControl: Source control is disabled
+[2018.02.03-19.42.49:053][  0]SourceControl: Source control is disabled
+[2018.02.03-19.42.50:504][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.03-19.42.51:358][  0]LogOcInput: OculusInput pre-init called
+[2018.02.03-19.42.51:960][  0]LogEngine: Initializing Engine...
+[2018.02.03-19.42.51:963][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.03-19.42.52:218][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.03-19.42.52:218][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.03-19.42.52:477][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.03-19.42.52:497][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.03-19.42.52:596][  0]LogInit: FAudioDevice initialized.
+[2018.02.03-19.42.52:728][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.03-19.42.52:750][  0]LogInit: Texture streaming: Enabled
+[2018.02.03-19.42.52:981][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.03-19.42.53:212][  0]LogInit: Transaction tracking system initialized
+[2018.02.03-19.42.53:859][  0]BlueprintLog: New page: Editor Load
+[2018.02.03-19.42.55:641][  0]LocalizationService: Localization service is disabled
+[2018.02.03-19.42.57:409][  0]LogConsoleResponse: Display: 
+[2018.02.03-19.42.57:657][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.03-19.42.57:657][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.03-19.42.57:657][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.03-19.42.57:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/' took 0.02s
+[2018.02.03-19.42.59:961][  0]SourceControl: Source control is disabled
+[2018.02.03-19.42.59:961][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.03-19.42.59:962][  0]LightingResults: New page: Lighting Build
+[2018.02.03-19.43.00:035][  0]MapCheck: New page: Map Check
+[2018.02.03-19.43.00:035][  0]LightingResults: New page: Lighting Build
+[2018.02.03-19.43.00:344][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.03-19.43.00:354][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.03-19.43.00:381][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.03-19.43.00:455][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.773ms to complete.
+[2018.02.03-19.43.00:456][  0]LogFileHelpers: Loading map 'Template_Default' took 0.494
+[2018.02.03-19.43.00:524][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.03-19.43.00:636][  0]LogCollectionManager: Loaded 0 collections in 0.001552 seconds
+[2018.02.03-19.43.00:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Collections/' took 0.01s
+[2018.02.03-19.43.00:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Developers/USER/Collections/' took 0.01s
+[2018.02.03-19.43.00:771][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Collections/' took 0.01s
+[2018.02.03-19.43.00:771][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.03-19.43.00:779][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2364 classes and 521 folders.
+[2018.02.03-19.43.00:892][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.03-19.43.00:935][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.03-19.43.01:011][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2018.02.03-19.43.01:134][  0]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.03-19.43.01:138][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.03-19.43.01:151][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.03-19.43.01:394][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.03-19.43.01:394][  0]LogLoad: (Engine Initialization) Total time: 30.67 seconds
+[2018.02.03-19.43.01:394][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.03-19.43.01:394][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.03-19.43.01:423][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.03-19.43.01:506][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.03-19.43.01:542][  1]LogAssetRegistry: Asset discovery search completed in 20.0021 seconds
+[2018.02.03-19.43.01:544][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.03-19.43.01:544][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2018.02.03-19.43.01:583][  2]LogRenderer: Reallocating scene render targets to support 1208x488 Format 10 NumSamples 1 (Frame:1).
+[2018.02.03-19.45.41:335][947]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.03-19.45.41:353][947]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Zbrush modeling files\wells\warehouse\warehouse 19.fbx)
+[2018.02.03-19.45.41:371][947]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: Material, ItemCount : 6
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: Texture, ItemCount : 5
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: AnimationCurveNode, ItemCount : 3
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: AnimationCurve, ItemCount : 9
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: Model, ItemCount : 1
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.02.03-19.45.41:372][947]LogFbx: ItemName: Video, ItemCount : 5
+[2018.02.03-19.45.41:376][947]LogFbx: Loading FBX Scene from F:\Zbrush modeling files\wells\warehouse\warehouse 19.fbx
+[2018.02.03-19.45.41:849][947]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.03-19.45.56:885][947]LogFbx: Loading FBX Scene from F:\Zbrush modeling files\wells\warehouse\warehouse 19.fbx
+[2018.02.03-19.45.57:110][947]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.03-19.45.57:113][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/floor'
+[2018.02.03-19.45.57:114][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/floor'
+[2018.02.03-19.45.57:120][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/Floor_base'
+[2018.02.03-19.45.57:120][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/Floor_base'
+[2018.02.03-19.45.57:214][947]LogTexture: Display: Building textures: Floor_base (AutoDXT, 2048X2048)
+[2018.02.03-19.45.57:862][947]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-19.45.57:898][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/beems'
+[2018.02.03-19.45.57:899][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/beems'
+[2018.02.03-19.45.57:900][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/beems_base'
+[2018.02.03-19.45.57:901][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/beems_base'
+[2018.02.03-19.45.58:011][947]LogTexture: Display: Building textures: beems_base (AutoDXT, 2048X2048)
+[2018.02.03-19.45.58:632][947]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.03-19.45.58:645][947]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-19.45.58:665][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/walls'
+[2018.02.03-19.45.58:665][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/walls'
+[2018.02.03-19.45.58:667][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/Walls_base'
+[2018.02.03-19.45.58:667][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/Walls_base'
+[2018.02.03-19.45.58:737][947]LogTexture: Display: Building textures: Walls_base (AutoDXT, 2048X2048)
+[2018.02.03-19.45.59:340][947]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-19.45.59:361][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/roof'
+[2018.02.03-19.45.59:361][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/roof'
+[2018.02.03-19.45.59:364][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/roof_base'
+[2018.02.03-19.45.59:365][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/roof_base'
+[2018.02.03-19.45.59:485][947]LogTexture: Display: Building textures: roof_base (AutoDXT, 2048X2048)
+[2018.02.03-19.46.00:401][947]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.46.00:425][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/x-beem'
+[2018.02.03-19.46.00:425][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/x-beem'
+[2018.02.03-19.46.00:427][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/X_beem_base'
+[2018.02.03-19.46.00:427][947]LogLinker: Can't find file '/Game/3D/MapElements/warehouse/X_beem_base'
+[2018.02.03-19.46.00:602][947]LogTexture: Display: Building textures: X_beem_base (AutoDXT, 2048X2048)
+[2018.02.03-19.46.02:151][947]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-19.46.02:171][947]LogFbx: Warning: Triangulating static mesh warehouse
+[2018.02.03-19.46.02:513][947]LogStaticMesh: Building static mesh warehouse_19...
+[2018.02.03-19.46.02:660][947]LogStaticMesh: Built static mesh [0.15s] /Game/3D/MapElements/warehouse/warehouse_19.warehouse_19
+[2018.02.03-19.46.02:691][947]LogStaticMesh: Warning: warehouse_19 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.02.03-19.46.02:691][947]LogStaticMesh: Warning: warehouse_19 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.02.03-19.46.02:726][947]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.02.03-19.46.02:726][947]FBXImport: Warning: warehouse_19 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.02.03-19.46.02:726][947]FBXImport: Warning: warehouse_19 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.02.03-19.46.47:138][183]LogActorFactory: Actor Factory created warehouse_19
+[2018.02.03-19.47.09:253][788]LogActorFactory: Actor Factory created warehouse_19
+[2018.02.03-19.50.22:328][322]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\Walls_ambient_occlusion.jpg)
+[2018.02.03-19.50.22:348][322]LogTexture: Display: Building textures: Walls_ambient_occlusion (AutoDXT, 2048X2048)
+[2018.02.03-19.50.22:976][322]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\roof_Metallic.jpg)
+[2018.02.03-19.50.23:085][322]LogTexture: Display: Building textures: roof_Metallic (AutoDXT, 2048X2048)
+[2018.02.03-19.50.23:939][322]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\roof_Normal.jpg)
+[2018.02.03-19.50.24:026][322]LogTexture: Display: Building textures: roof_Normal (BC5, 2048X2048)
+[2018.02.03-19.50.24:347][322]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.03-19.50.47:895][949]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.02.03-19.50.47:898][949]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.50.48:296][949]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.50.48:315][949]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.50.48:368][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-19.50.48:389][949]LogSlate: Took 0.000479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.03-19.50.49:426][  7]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-19.50.49:426][  7]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-19.50.49:426][  7]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.03-19.50.49:426][  7]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-19.50.49:426][  7]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2018.02.03-19.51.24:601][540]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.51.24:617][540]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.03-19.51.24:648][540]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-19.51.24:661][540]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.03-19.51.25:676][609]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-19.51.25:676][609]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-19.51.25:676][609]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.03-19.51.25:676][609]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-19.51.25:676][609]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2018.02.03-19.52.23:992][ 20]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.52.24:014][ 20]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.03-19.52.25:057][ 93]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-19.52.25:057][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.02.03-19.52.25:057][ 93]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.03-19.52.25:057][ 93]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.03-19.52.25:057][ 93]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2018.02.03-19.52.38:862][353]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.52.38:877][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.02.03-19.52.38:908][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-19.52.38:922][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.03-19.52.38:938][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.02.03-19.52.39:574][389]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-19.52.39:574][389]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.02.03-19.52.39:574][389]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.03-19.52.39:574][389]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.03-19.52.39:574][389]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2018.02.03-19.53.02:951][575]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.53.02:973][575]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.02.03-19.53.04:051][650]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-19.53.04:052][650]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.02.03-19.53.04:052][650]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.03-19.53.04:052][650]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-19.53.04:052][650]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2018.02.03-19.53.43:373][348]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.53.43:389][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.03-19.53.43:419][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-19.53.43:424][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.03-19.53.43:428][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.02.03-19.53.43:433][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.03-19.53.44:464][414]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-19.53.44:464][414]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.02.03-19.53.44:464][414]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.03-19.53.44:464][414]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-19.53.44:464][414]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2018.02.03-19.54.22:219][894]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.54.22:240][894]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.03-19.54.23:309][967]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-19.54.23:309][967]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.03-19.54.23:309][967]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.03-19.54.23:309][967]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.03-19.54.23:309][967]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2018.02.03-19.54.47:147][831]LogSavePackage: Save=38.11ms
+[2018.02.03-19.54.47:147][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Untitled_1_Auto1E5A1EB5048BA2E334F46BBA9B1E7456C.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.02.03-19.54.47:149][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.02.03-19.54.47:150][831]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.060
+[2018.02.03-19.54.47:150][831]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.060
+[2018.02.03-19.54.47:152][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/warehouse_19] ([1] browsable assets)...
+[2018.02.03-19.54.47:167][831]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D/MapElements/warehouse/warehouse_19.warehouse_19]
+[2018.02.03-19.54.47:167][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/warehouse_19]
+[2018.02.03-19.54.47:198][831]LogSavePackage: Save=27.05ms
+[2018.02.03-19.54.47:198][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/warehouse_19_Auto11C3F1FEA4253F0A14B21849A1352A0F9.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/warehouse_19_Auto1.uasset'
+[2018.02.03-19.54.47:200][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/warehouse_19_Auto1.uasset
+[2018.02.03-19.54.47:201][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/floor] ([1] browsable assets)...
+[2018.02.03-19.54.47:226][831]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/floor.floor]
+[2018.02.03-19.54.47:226][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/floor]
+[2018.02.03-19.54.47:255][831]LogSavePackage: Save=25.96ms
+[2018.02.03-19.54.47:255][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/floor_Auto142F31F5A4B899BDC4D0E98990C24AB1E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/floor_Auto1.uasset'
+[2018.02.03-19.54.47:258][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/floor_Auto1.uasset
+[2018.02.03-19.54.47:260][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/Floor_base] ([1] browsable assets)...
+[2018.02.03-19.54.47:272][831]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/Floor_base.Floor_base]
+[2018.02.03-19.54.47:272][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/Floor_base]
+[2018.02.03-19.54.47:307][831]LogSavePackage: Save=31.85ms
+[2018.02.03-19.54.47:307][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Floor_base_Auto11FB961874BC67DC08D31B6B1ADF5A800.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Floor_base_Auto1.uasset'
+[2018.02.03-19.54.47:312][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Floor_base_Auto1.uasset
+[2018.02.03-19.54.47:313][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/beems] ([1] browsable assets)...
+[2018.02.03-19.54.47:342][831]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/beems.beems]
+[2018.02.03-19.54.47:342][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/beems]
+[2018.02.03-19.54.47:378][831]LogSavePackage: Save=31.23ms
+[2018.02.03-19.54.47:378][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beems_Auto1306B406F416A42D22F43C6AF2C9336FC.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_Auto1.uasset'
+[2018.02.03-19.54.47:380][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_Auto1.uasset
+[2018.02.03-19.54.47:381][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/beems_base] ([1] browsable assets)...
+[2018.02.03-19.54.47:402][831]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/beems_base.beems_base]
+[2018.02.03-19.54.47:402][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/beems_base]
+[2018.02.03-19.54.47:425][831]LogSavePackage: Save=20.95ms
+[2018.02.03-19.54.47:425][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beems_base_Auto18AD6806A42A880B22798F8894A00AEAA.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_base_Auto1.uasset'
+[2018.02.03-19.54.47:428][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_base_Auto1.uasset
+[2018.02.03-19.54.47:429][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/walls] ([1] browsable assets)...
+[2018.02.03-19.54.47:448][831]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/walls.walls]
+[2018.02.03-19.54.47:448][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/walls]
+[2018.02.03-19.54.47:463][831]LogSavePackage: Save=12.15ms
+[2018.02.03-19.54.47:463][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/walls_Auto1FFF2CB4E489B8D5CF6AC6C9D11AE0BCE.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/walls_Auto1.uasset'
+[2018.02.03-19.54.47:465][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/walls_Auto1.uasset
+[2018.02.03-19.54.47:466][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/Walls_base] ([1] browsable assets)...
+[2018.02.03-19.54.47:478][831]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/Walls_base.Walls_base]
+[2018.02.03-19.54.47:478][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/Walls_base]
+[2018.02.03-19.54.47:492][831]LogSavePackage: Save=11.95ms
+[2018.02.03-19.54.47:492][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Walls_base_Auto18D264E7D435B1C3751872EAC1D5F7F34.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Walls_base_Auto1.uasset'
+[2018.02.03-19.54.47:495][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Walls_base_Auto1.uasset
+[2018.02.03-19.54.47:496][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/roof] ([1] browsable assets)...
+[2018.02.03-19.54.47:516][831]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/roof.roof]
+[2018.02.03-19.54.47:516][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/roof]
+[2018.02.03-19.54.47:531][831]LogSavePackage: Save=12.90ms
+[2018.02.03-19.54.47:531][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof_Auto1DBF0A3534ECA42D3914E7C92140586BA.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_Auto1.uasset'
+[2018.02.03-19.54.47:533][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_Auto1.uasset
+[2018.02.03-19.54.47:534][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/roof_base] ([1] browsable assets)...
+[2018.02.03-19.54.47:546][831]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/roof_base.roof_base]
+[2018.02.03-19.54.47:546][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/roof_base]
+[2018.02.03-19.54.47:563][831]LogSavePackage: Save=15.96ms
+[2018.02.03-19.54.47:563][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof_base_Auto1DEC85199465784619EC87A8C469563D5.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_base_Auto1.uasset'
+[2018.02.03-19.54.47:566][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_base_Auto1.uasset
+[2018.02.03-19.54.47:566][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/x-beem] ([1] browsable assets)...
+[2018.02.03-19.54.47:593][831]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/x-beem.x-beem]
+[2018.02.03-19.54.47:593][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/x-beem]
+[2018.02.03-19.54.47:609][831]LogSavePackage: Save=13.87ms
+[2018.02.03-19.54.47:609][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/x-beem_Auto1A7E5C6B5474103646D2E0083D6DEE15B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/x-beem_Auto1.uasset'
+[2018.02.03-19.54.47:611][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/x-beem_Auto1.uasset
+[2018.02.03-19.54.47:612][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/X_beem_base] ([1] browsable assets)...
+[2018.02.03-19.54.47:632][831]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/X_beem_base.X_beem_base]
+[2018.02.03-19.54.47:632][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/X_beem_base]
+[2018.02.03-19.54.47:652][831]LogSavePackage: Save=18.34ms
+[2018.02.03-19.54.47:652][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/X_beem_base_Auto1D9FC723A467E94F83854069AE059CCCA.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/X_beem_base_Auto1.uasset'
+[2018.02.03-19.54.47:654][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/X_beem_base_Auto1.uasset
+[2018.02.03-19.54.47:655][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/Walls_ambient_occlusion] ([1] browsable assets)...
+[2018.02.03-19.54.47:675][831]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/Walls_ambient_occlusion.Walls_ambient_occlusion]
+[2018.02.03-19.54.47:675][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/Walls_ambient_occlusion]
+[2018.02.03-19.54.47:685][831]LogSavePackage: Save=7.82ms
+[2018.02.03-19.54.47:685][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Walls_ambient_occlusion_Auto1446883E04C602D777AAE04B917FF14A4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Walls_ambient_occlusion_Auto1.uasset'
+[2018.02.03-19.54.47:687][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Walls_ambient_occlusion_Auto1.uasset
+[2018.02.03-19.54.47:688][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/roof_Metallic] ([1] browsable assets)...
+[2018.02.03-19.54.47:709][831]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/roof_Metallic.roof_Metallic]
+[2018.02.03-19.54.47:709][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/roof_Metallic]
+[2018.02.03-19.54.47:742][831]LogSavePackage: Save=28.37ms
+[2018.02.03-19.54.47:742][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof_Metallic_Auto1BAC3840240F478B04F1583850DDE82A1.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_Metallic_Auto1.uasset'
+[2018.02.03-19.54.47:745][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_Metallic_Auto1.uasset
+[2018.02.03-19.54.47:747][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/roof_Normal] ([1] browsable assets)...
+[2018.02.03-19.54.47:768][831]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/roof_Normal.roof_Normal]
+[2018.02.03-19.54.47:768][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/roof_Normal]
+[2018.02.03-19.54.47:807][831]LogSavePackage: Save=33.49ms
+[2018.02.03-19.54.47:807][831]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof_Normal_Auto17B1B2BEB48C3FB0A5F515497448AE13E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_Normal_Auto1.uasset'
+[2018.02.03-19.54.47:811][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_Normal_Auto1.uasset
+[2018.02.03-19.54.47:811][831]LogFileHelpers: Auto-saving content packages took 0.660
+[2018.02.03-19.55.03:688][ 78]LogMaterialEditor: Applying material roof
+[2018.02.03-19.55.04:401][ 78]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.55.04:467][ 78]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.55.04:496][ 78]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.03-19.55.04:568][ 78]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy roof, compiling. 
+[2018.02.03-19.55.05:526][ 78]TextureStreamingBuild: Display: Compiling optional shaders took 0.964 seconds.
+[2018.02.03-19.55.07:452][244]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-19.55.07:452][244]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.03-19.55.07:452][244]MaterialEditorStats: Vertex shader: 32 instructions
+[2018.02.03-19.55.07:452][244]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.03-19.55.07:452][244]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2018.02.03-19.58.05:621][655]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-19.58.05:699][655]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-19.58.05:716][655]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-19.58.05:759][655]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-19.58.06:796][717]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-19.58.06:796][717]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-19.58.06:796][717]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-19.58.06:796][717]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-19.58.06:796][717]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2018.02.03-19.59.13:105][ 95]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-19.59.13:149][ 95]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-19.59.14:204][170]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-19.59.14:204][170]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-19.59.14:204][170]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-19.59.14:204][170]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-19.59.14:204][170]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.00.03:859][278]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.00.03:874][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.03-20.00.03:899][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.00.03:904][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.03-20.00.04:929][346]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.00.04:929][346]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-20.00.04:929][346]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.00.04:929][346]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-20.00.04:929][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.00.44:361][  0]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.00.44:382][  0]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.03-20.00.45:452][ 71]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.00.45:452][ 71]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.02.03-20.00.45:452][ 71]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.00.45:452][ 71]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.03-20.00.45:452][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.02.19:616][556]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\Walls_Normal.jpg)
+[2018.02.03-20.02.19:703][556]LogTexture: Display: Building textures: Walls_Normal (BC5, 2048X2048)
+[2018.02.03-20.02.39:576][381]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.02.39:592][381]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.03-20.02.39:622][381]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.02.39:627][381]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.03-20.02.39:632][381]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.03-20.02.40:621][446]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.02.40:621][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.02.03-20.02.40:621][446]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.02.40:621][446]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.03-20.02.40:621][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.03.04:900][820]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.03.04:919][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.03-20.03.05:961][891]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-20.03.05:962][891]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.02.03-20.03.05:962][891]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.03.05:962][891]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.03.05:962][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.04.17:971][667]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.04.17:993][667]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.04.19:066][741]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-20.04.19:066][741]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.02.03-20.04.19:066][741]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.04.19:066][741]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.04.19:066][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.04.36:048][ 48]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.04.36:710][ 91]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.02.03-20.04.36:710][ 91]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.03-20.04.36:710][ 91]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.04.36:710][ 91]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.04.36:710][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.05.17:360][928]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.05.17:395][928]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.05.18:479][  5]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.02.03-20.05.18:479][  5]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.03-20.05.18:479][  5]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.05.18:479][  5]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.05.18:479][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.05.34:454][258]LogMaterialEditor: Applying material walls
+[2018.02.03-20.05.35:040][258]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.05.35:081][258]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.05.35:111][258]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.05.35:175][258]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy walls, compiling. 
+[2018.02.03-20.05.35:716][258]TextureStreamingBuild: Display: Compiling optional shaders took 0.550 seconds.
+[2018.02.03-20.05.37:655][425]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.02.03-20.05.37:655][425]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.03-20.05.37:655][425]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.05.37:655][425]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.03-20.05.37:655][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.06.08:195][402]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.03-20.06.08:296][402]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.03-20.06.08:318][402]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.03-20.06.08:376][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.06.08:388][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.03-20.06.08:399][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.03-20.06.09:444][461]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.02.03-20.06.09:444][461]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.03-20.06.09:444][461]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.06.09:444][461]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.06.09:444][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.06.35:819][752]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.03-20.06.36:835][826]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.02.03-20.06.36:835][826]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.03-20.06.36:835][826]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.06.36:835][826]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.06.36:835][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.06.50:980][ 42]LogMaterialEditor: Applying material walls
+[2018.02.03-20.06.51:596][ 42]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.03-20.06.51:648][ 42]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.06.51:700][ 42]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.03-20.06.51:754][ 42]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy walls, compiling. 
+[2018.02.03-20.06.52:234][ 42]TextureStreamingBuild: Display: Compiling optional shaders took 0.487 seconds.
+[2018.02.03-20.06.54:187][211]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.02.03-20.06.54:187][211]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.03-20.06.54:187][211]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.06.54:187][211]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.03-20.06.54:187][211]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.07.30:535][988]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.07.30:627][988]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.07.30:649][988]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.07.30:708][988]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.07.31:732][ 48]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.07.31:732][ 48]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-20.07.31:732][ 48]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.02.03-20.07.31:732][ 48]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-20.07.31:732][ 48]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.02.03-20.08.01:024][664]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.032
+[2018.02.03-20.08.01:026][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/walls] ([1] browsable assets)...
+[2018.02.03-20.08.01:066][664]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/walls.walls]
+[2018.02.03-20.08.01:066][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/walls]
+[2018.02.03-20.08.01:103][664]LogSavePackage: Save=32.59ms
+[2018.02.03-20.08.01:103][664]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/walls_Auto2C5EBBB754FB2A7F95BC768B905BBD855.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/walls_Auto2.uasset'
+[2018.02.03-20.08.01:107][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/walls_Auto2.uasset
+[2018.02.03-20.08.01:108][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/roof] ([1] browsable assets)...
+[2018.02.03-20.08.01:149][664]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/roof.roof]
+[2018.02.03-20.08.01:149][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/roof]
+[2018.02.03-20.08.01:185][664]LogSavePackage: Save=31.47ms
+[2018.02.03-20.08.01:185][664]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof_Auto26CF0D7A547799FE63A48BD92439D6796.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_Auto2.uasset'
+[2018.02.03-20.08.01:189][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/roof_Auto2.uasset
+[2018.02.03-20.08.01:191][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/Walls_Normal] ([1] browsable assets)...
+[2018.02.03-20.08.01:204][664]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/Walls_Normal.Walls_Normal]
+[2018.02.03-20.08.01:204][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/Walls_Normal]
+[2018.02.03-20.08.01:240][664]LogSavePackage: Save=31.17ms
+[2018.02.03-20.08.01:240][664]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Walls_Normal_Auto2FA46A6704C6DE1B9B8ACFA920C4B77D7.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Walls_Normal_Auto2.uasset'
+[2018.02.03-20.08.01:243][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Walls_Normal_Auto2.uasset
+[2018.02.03-20.08.01:243][664]LogFileHelpers: Auto-saving content packages took 0.219
+[2018.02.03-20.09.02:280][134]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\Floor_Normal.jpg)
+[2018.02.03-20.09.02:359][134]LogTexture: Display: Building textures: Floor_Normal (BC5, 2048X2048)
+[2018.02.03-20.09.02:774][134]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\Floor_ambient_occlusion.jpg)
+[2018.02.03-20.09.02:789][134]LogTexture: Display: Building textures: Floor_ambient_occlusion (AutoDXT, 2048X2048)
+[2018.02.03-20.09.03:421][134]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\Floor_Metallic.jpg)
+[2018.02.03-20.09.03:515][134]LogTexture: Display: Building textures: Floor_Metallic (AutoDXT, 2048X2048)
+[2018.02.03-20.09.22:663][868]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.09.22:678][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.02.03-20.09.22:712][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.09.22:721][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.02.03-20.09.22:752][868]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.09.22:790][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.03-20.09.22:822][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.09.22:827][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.02.03-20.09.22:832][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.03-20.09.22:844][868]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.09.22:860][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.03-20.09.22:892][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.09.22:903][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.02.03-20.09.22:915][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.03-20.09.22:925][868]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.03-20.09.24:005][932]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.09.24:005][932]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-20.09.24:005][932]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.02.03-20.09.24:005][932]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-20.09.24:005][932]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.02.03-20.10.03:816][483]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.10.03:838][483]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.03-20.10.04:936][556]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-20.10.04:936][556]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.02.03-20.10.04:936][556]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.02.03-20.10.04:936][556]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.03-20.10.04:936][556]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.02.03-20.10.56:895][375]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.10.56:917][375]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.03-20.10.57:993][445]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-20.10.57:993][445]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2018.02.03-20.10.57:993][445]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.02.03-20.10.57:993][445]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.10.57:993][445]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.02.03-20.11.29:139][154]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.11.29:157][154]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.02.03-20.11.30:210][223]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-20.11.30:210][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.03-20.11.30:210][223]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.02.03-20.11.30:210][223]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.03-20.11.30:210][223]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.02.03-20.11.41:082][ 86]LogMaterialEditor: Applying material floor
+[2018.02.03-20.11.41:725][ 86]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.11.41:785][ 86]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.11.41:827][ 86]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.03-20.11.41:876][ 86]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy floor, compiling. 
+[2018.02.03-20.11.42:417][ 86]TextureStreamingBuild: Display: Compiling optional shaders took 0.550 seconds.
+[2018.02.03-20.11.44:269][239]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-20.11.44:269][239]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.03-20.11.44:269][239]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.02.03-20.11.44:269][239]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.03-20.11.44:269][239]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.02.03-20.12.20:599][789]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.12.20:695][789]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.12.20:719][789]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.12.20:768][789]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.12.21:793][847]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.12.21:793][847]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-20.12.21:794][847]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.12.21:794][847]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-20.12.21:794][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.13.20:483][521]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\beems_Normal.jpg)
+[2018.02.03-20.13.20:583][521]LogTexture: Display: Building textures: beems_Normal (BC5, 2048X2048)
+[2018.02.03-20.13.20:929][521]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\beems_ambient_occlusion.jpg)
+[2018.02.03-20.13.20:947][521]LogTexture: Display: Building textures: beems_ambient_occlusion (AutoDXT, 2048X2048)
+[2018.02.03-20.13.35:079][697]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.13.35:095][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.02.03-20.13.35:131][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.13.35:142][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.02.03-20.13.35:170][697]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.13.35:205][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.02.03-20.13.35:240][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.13.35:247][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.02.03-20.13.35:254][697]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.02.03-20.13.36:382][768]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.13.36:382][768]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-20.13.36:382][768]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.13.36:382][768]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-20.13.36:382][768]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.14.20:606][695]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.14.20:629][695]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.02.03-20.14.21:647][762]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-20.14.21:647][762]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.02.03-20.14.21:647][762]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.14.21:647][762]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.03-20.14.21:647][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.14.56:206][933]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.14.56:225][933]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.02.03-20.14.57:293][  4]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-20.14.57:294][  4]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.02.03-20.14.57:294][  4]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.14.57:294][  4]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.14.57:294][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.15.12:699][206]LogMaterialEditor: Applying material beems
+[2018.02.03-20.15.13:417][206]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.15.13:478][206]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.15.13:520][206]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.03-20.15.13:572][206]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy beems, compiling. 
+[2018.02.03-20.15.14:069][206]TextureStreamingBuild: Display: Compiling optional shaders took 0.504 seconds.
+[2018.02.03-20.15.16:008][371]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-20.15.16:008][371]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.02.03-20.15.16:008][371]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.15.16:008][371]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.03-20.15.16:008][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.15.45:749][911]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.15.45:884][911]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.15.45:929][911]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.15.45:977][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.15.47:033][975]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.15.47:033][975]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-20.15.47:033][975]MaterialEditorStats: Vertex shader: 33 instructions
+[2018.02.03-20.15.47:033][975]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-20.15.47:033][975]MaterialEditorStats: User interpolators: 10/12 Scalars (3/4 Vectors) (TexCoords: 10, Custom: 0)
+[2018.02.03-20.17.19:120][455]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\X_beem_Metallic.jpg)
+[2018.02.03-20.17.19:253][455]LogTexture: Display: Building textures: X_beem_Metallic (AutoDXT, 2048X2048)
+[2018.02.03-20.17.20:248][455]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\X_beem_Normal.jpg)
+[2018.02.03-20.17.20:359][455]LogTexture: Display: Building textures: X_beem_Normal (BC5, 2048X2048)
+[2018.02.03-20.17.21:057][455]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Zbrush modeling files\wells\warehouse\texture\X_beem_ambient_occlusion.jpg)
+[2018.02.03-20.17.21:129][455]LogTexture: Display: Building textures: X_beem_ambient_occlusion (AutoDXT, 2048X2048)
+[2018.02.03-20.17.42:340][390]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.17.42:355][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.02.03-20.17.42:390][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.17.42:402][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.02.03-20.17.42:435][390]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.17.42:466][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.02.03-20.17.42:499][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.17.42:504][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.02.03-20.17.42:509][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.02.03-20.17.42:521][390]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.17.42:537][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.02.03-20.17.42:569][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.17.42:574][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.02.03-20.17.42:578][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.02.03-20.17.42:583][390]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.02.03-20.17.43:718][458]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.02.03-20.17.43:718][458]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.02.03-20.17.43:718][458]MaterialEditorStats: Vertex shader: 33 instructions
+[2018.02.03-20.17.43:718][458]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.03-20.17.43:718][458]MaterialEditorStats: User interpolators: 10/12 Scalars (3/4 Vectors) (TexCoords: 10, Custom: 0)
+[2018.02.03-20.18.23:094][780]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.18.23:113][780]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.02.03-20.18.24:191][849]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.03-20.18.24:191][849]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.02.03-20.18.24:191][849]MaterialEditorStats: Vertex shader: 33 instructions
+[2018.02.03-20.18.24:191][849]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.03-20.18.24:191][849]MaterialEditorStats: User interpolators: 10/12 Scalars (3/4 Vectors) (TexCoords: 10, Custom: 0)
+[2018.02.03-20.20.03:792][360]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.20.03:819][360]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.02.03-20.20.04:908][429]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-20.20.04:908][429]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2018.02.03-20.20.04:908][429]MaterialEditorStats: Vertex shader: 33 instructions
+[2018.02.03-20.20.04:908][429]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.20.04:908][429]MaterialEditorStats: User interpolators: 10/12 Scalars (3/4 Vectors) (TexCoords: 10, Custom: 0)
+[2018.02.03-20.20.39:342][228]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.20.39:388][228]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.03-20.20.40:450][297]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-20.20.40:450][297]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2018.02.03-20.20.40:450][297]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.20.40:450][297]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.03-20.20.40:450][297]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.21.33:393][ 14]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.21.33:413][ 14]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.02.03-20.21.34:484][ 84]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-20.21.34:484][ 84]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.03-20.21.34:484][ 84]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.21.34:484][ 84]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.03-20.21.34:484][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.21.44:610][882]LogMaterialEditor: Applying material x-beem
+[2018.02.03-20.21.45:412][882]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.21.45:464][882]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.21.45:494][882]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.03-20.21.45:544][882]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy x-beem, compiling. 
+[2018.02.03-20.21.46:097][882]TextureStreamingBuild: Display: Compiling optional shaders took 0.562 seconds.
+[2018.02.03-20.21.48:054][ 41]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.03-20.21.48:054][ 41]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.03-20.21.48:054][ 41]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.03-20.21.48:054][ 41]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.03-20.21.48:054][ 41]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.03-20.22.16:884][670]LogRenderer: Reallocating scene render targets to support 1404x540 Format 10 NumSamples 1 (Frame:1).
+[2018.02.03-20.24.40:385][547]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.034
+[2018.02.03-20.24.40:387][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/floor] ([1] browsable assets)...
+[2018.02.03-20.24.40:425][547]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/floor.floor]
+[2018.02.03-20.24.40:425][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/floor]
+[2018.02.03-20.24.40:469][547]LogSavePackage: Save=39.61ms
+[2018.02.03-20.24.40:469][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/floor_Auto3217C27F749C8852EBC93F698081F6FAE.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/floor_Auto3.uasset'
+[2018.02.03-20.24.40:474][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/floor_Auto3.uasset
+[2018.02.03-20.24.40:475][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/beems] ([1] browsable assets)...
+[2018.02.03-20.24.40:523][547]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/beems.beems]
+[2018.02.03-20.24.40:523][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/beems]
+[2018.02.03-20.24.40:548][547]LogSavePackage: Save=20.21ms
+[2018.02.03-20.24.40:548][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beems_Auto3876EB01947CED231B1B82D8A0F46C2EE.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_Auto3.uasset'
+[2018.02.03-20.24.40:551][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_Auto3.uasset
+[2018.02.03-20.24.40:552][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/x-beem] ([1] browsable assets)...
+[2018.02.03-20.24.40:591][547]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D/MapElements/warehouse/x-beem.x-beem]
+[2018.02.03-20.24.40:591][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/x-beem]
+[2018.02.03-20.24.40:623][547]LogSavePackage: Save=25.88ms
+[2018.02.03-20.24.40:623][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/x-beem_Auto3A928498F49BD07A9D9A91F84DDC02AD4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/x-beem_Auto3.uasset'
+[2018.02.03-20.24.40:626][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/x-beem_Auto3.uasset
+[2018.02.03-20.24.40:627][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/Floor_Normal] ([1] browsable assets)...
+[2018.02.03-20.24.40:637][547]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/Floor_Normal.Floor_Normal]
+[2018.02.03-20.24.40:638][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/Floor_Normal]
+[2018.02.03-20.24.40:670][547]LogSavePackage: Save=28.41ms
+[2018.02.03-20.24.40:670][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Floor_Normal_Auto3393A1A614A614EA3BD2DDC8CE629E9FE.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Floor_Normal_Auto3.uasset'
+[2018.02.03-20.24.40:673][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Floor_Normal_Auto3.uasset
+[2018.02.03-20.24.40:674][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/Floor_ambient_occlusion] ([1] browsable assets)...
+[2018.02.03-20.24.40:697][547]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/Floor_ambient_occlusion.Floor_ambient_occlusion]
+[2018.02.03-20.24.40:697][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/Floor_ambient_occlusion]
+[2018.02.03-20.24.40:719][547]LogSavePackage: Save=17.29ms
+[2018.02.03-20.24.40:719][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Floor_ambient_occlusion_Auto350584BD24B3BB753FA85E3BFF1011406.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Floor_ambient_occlusion_Auto3.uasset'
+[2018.02.03-20.24.40:724][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Floor_ambient_occlusion_Auto3.uasset
+[2018.02.03-20.24.40:725][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/Floor_Metallic] ([1] browsable assets)...
+[2018.02.03-20.24.40:746][547]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/Floor_Metallic.Floor_Metallic]
+[2018.02.03-20.24.40:746][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/Floor_Metallic]
+[2018.02.03-20.24.40:786][547]LogSavePackage: Save=35.45ms
+[2018.02.03-20.24.40:786][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Floor_Metallic_Auto35653A1FF4297C65795816EB81D2EF2FB.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Floor_Metallic_Auto3.uasset'
+[2018.02.03-20.24.40:791][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/Floor_Metallic_Auto3.uasset
+[2018.02.03-20.24.40:793][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/beems_Normal] ([1] browsable assets)...
+[2018.02.03-20.24.40:817][547]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/beems_Normal.beems_Normal]
+[2018.02.03-20.24.40:817][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/beems_Normal]
+[2018.02.03-20.24.40:866][547]LogSavePackage: Save=44.71ms
+[2018.02.03-20.24.40:866][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beems_Normal_Auto3A8FF248942B36129514095994939F719.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_Normal_Auto3.uasset'
+[2018.02.03-20.24.40:870][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_Normal_Auto3.uasset
+[2018.02.03-20.24.40:872][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/beems_ambient_occlusion] ([1] browsable assets)...
+[2018.02.03-20.24.40:894][547]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/beems_ambient_occlusion.beems_ambient_occlusion]
+[2018.02.03-20.24.40:895][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/beems_ambient_occlusion]
+[2018.02.03-20.24.40:920][547]LogSavePackage: Save=21.34ms
+[2018.02.03-20.24.40:920][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beems_ambient_occlusion_Auto3090A6517424A3083598E65B285408841.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_ambient_occlusion_Auto3.uasset'
+[2018.02.03-20.24.40:925][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/beems_ambient_occlusion_Auto3.uasset
+[2018.02.03-20.24.40:927][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/X_beem_Metallic] ([1] browsable assets)...
+[2018.02.03-20.24.40:936][547]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/X_beem_Metallic.X_beem_Metallic]
+[2018.02.03-20.24.40:936][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/X_beem_Metallic]
+[2018.02.03-20.24.40:959][547]LogSavePackage: Save=20.66ms
+[2018.02.03-20.24.40:959][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/X_beem_Metallic_Auto3059E3A71413040DC230180BF9888E158.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/X_beem_Metallic_Auto3.uasset'
+[2018.02.03-20.24.40:962][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/X_beem_Metallic_Auto3.uasset
+[2018.02.03-20.24.40:964][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/X_beem_Normal] ([1] browsable assets)...
+[2018.02.03-20.24.40:987][547]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/X_beem_Normal.X_beem_Normal]
+[2018.02.03-20.24.40:987][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/X_beem_Normal]
+[2018.02.03-20.24.41:012][547]LogSavePackage: Save=23.18ms
+[2018.02.03-20.24.41:012][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/X_beem_Normal_Auto3058951324CDBEF370B874FB49DCC6C27.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/X_beem_Normal_Auto3.uasset'
+[2018.02.03-20.24.41:016][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/X_beem_Normal_Auto3.uasset
+[2018.02.03-20.24.41:017][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/MapElements/warehouse/X_beem_ambient_occlusion] ([1] browsable assets)...
+[2018.02.03-20.24.41:042][547]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/MapElements/warehouse/X_beem_ambient_occlusion.X_beem_ambient_occlusion]
+[2018.02.03-20.24.41:042][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/MapElements/warehouse/X_beem_ambient_occlusion]
+[2018.02.03-20.24.41:074][547]LogSavePackage: Save=29.46ms
+[2018.02.03-20.24.41:074][547]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/X_beem_ambient_occlusion_Auto306AE49364264DC4A60658CB80EA8146B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/X_beem_ambient_occlusion_Auto3.uasset'
+[2018.02.03-20.24.41:079][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Autosaves/Game/3D/MapElements/warehouse/X_beem_ambient_occlusion_Auto3.uasset
+[2018.02.03-20.24.41:079][547]LogFileHelpers: Auto-saving content packages took 0.693
+[2018.02.03-20.25.11:680][983]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Zbrush modeling files\wells\warehouse\warehouse-lo.fbx)
+[2018.02.03-20.25.11:691][983]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.03-20.25.11:691][983]LogFbx: ItemName: Geometry, ItemCount : 5
+[2018.02.03-20.25.11:691][983]LogFbx: ItemName: Model, ItemCount : 5
+[2018.02.03-20.25.11:691][983]LogFbx: ItemName: Material, ItemCount : 5
+[2018.02.03-20.25.11:704][983]LogFbx: Loading FBX Scene from F:\Zbrush modeling files\wells\warehouse\warehouse-lo.fbx
+[2018.02.03-20.25.11:720][983]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.03-20.25.48:779][983]LogFbx: Loading FBX Scene from F:\Zbrush modeling files\wells\warehouse\warehouse-lo.fbx
+[2018.02.03-20.25.48:792][983]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.03-20.25.48:792][983]LogFbx: Warning: Triangulating static mesh Walls
+[2018.02.03-20.25.48:909][983]LogStaticMesh: Building static mesh warehouse-lo_Walls...
+[2018.02.03-20.25.48:956][983]LogStaticMesh: Built static mesh [0.05s] /Game/3D/MapElements/warehouse/warehouse-lo_Walls.warehouse-lo_Walls
+[2018.02.03-20.25.48:976][983]LogFbx: Warning: Triangulating static mesh Roof1
+[2018.02.03-20.25.49:073][983]LogStaticMesh: Building static mesh warehouse-lo_Roof1...
+[2018.02.03-20.25.49:145][983]LogStaticMesh: Built static mesh [0.07s] /Game/3D/MapElements/warehouse/warehouse-lo_Roof1.warehouse-lo_Roof1
+[2018.02.03-20.25.49:167][983]LogFbx: Warning: Triangulating static mesh Beems_2
+[2018.02.03-20.25.49:185][983]LogStaticMesh: Building static mesh warehouse-lo_Beems_2...
+[2018.02.03-20.25.49:207][983]LogStaticMesh: Built static mesh [0.02s] /Game/3D/MapElements/warehouse/warehouse-lo_Beems_2.warehouse-lo_Beems_2
+[2018.02.03-20.25.49:219][983]LogFbx: Warning: Triangulating static mesh Floor2
+[2018.02.03-20.25.49:253][983]LogStaticMesh: Building static mesh warehouse-lo_Floor2...
+[2018.02.03-20.25.49:259][983]LogStaticMesh: Built static mesh [0.01s] /Game/3D/MapElements/warehouse/warehouse-lo_Floor2.warehouse-lo_Floor2
+[2018.02.03-20.25.49:268][983]LogFbx: Warning: Triangulating static mesh X_beem4
+[2018.02.03-20.25.49:411][983]LogStaticMesh: Building static mesh warehouse-lo_X_beem4...
+[2018.02.03-20.25.49:617][983]LogStaticMesh: Built static mesh [0.21s] /Game/3D/MapElements/warehouse/warehouse-lo_X_beem4.warehouse-lo_X_beem4
+[2018.02.03-20.25.49:677][983]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.02.03-20.25.49:677][983]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.02.03-20.25.49:677][983]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.02.03-20.25.49:677][983]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.02.03-20.25.49:678][983]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.02.03-20.29.53:595][365]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Zbrush modeling files\wells\warehouse\warehouse.fbx)
+[2018.02.03-20.29.53:608][365]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.03-20.29.53:608][365]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: Material, ItemCount : 6
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: Texture, ItemCount : 5
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: AnimationCurveNode, ItemCount : 3
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: AnimationCurve, ItemCount : 9
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: Model, ItemCount : 1
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.02.03-20.29.53:609][365]LogFbx: ItemName: Video, ItemCount : 5
+[2018.02.03-20.29.53:619][365]LogFbx: Loading FBX Scene from F:\Zbrush modeling files\wells\warehouse\warehouse.fbx
+[2018.02.03-20.29.53:643][365]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.03-20.30.06:353][365]LogFbx: Loading FBX Scene from F:\Zbrush modeling files\wells\warehouse\warehouse.fbx
+[2018.02.03-20.30.06:367][365]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.03-20.30.06:367][365]LogFbx: Warning: Triangulating static mesh Empty_Mesh
+[2018.02.03-20.30.06:638][365]LogStaticMesh: Building static mesh warehouse...
+[2018.02.03-20.30.06:803][365]LogStaticMesh: Built static mesh [0.16s] /Game/3D/MapElements/warehouse/warehouse.warehouse
+[2018.02.03-20.30.06:826][365]LogStaticMesh: Warning: warehouse has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.02.03-20.30.06:826][365]LogStaticMesh: Warning: warehouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.02.03-20.30.06:873][365]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.02.03-20.30.06:873][365]FBXImport: Warning: warehouse has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.02.03-20.30.06:873][365]FBXImport: Warning: warehouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.02.03-20.34.13:300][425]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.02.03-20.34.37:863][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.03-20.34.37:943][425]LogSavePackage: Save=42.22ms
+[2018.02.03-20.34.37:943][425]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Untitled133DF46E4B1AE50F189966AC8B41AF9B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Maps/Untitled.umap'
+[2018.02.03-20.34.37:950][425]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Maps/Untitled.umap
+[2018.02.03-20.34.38:016][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled_BuiltData" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Maps/Untitled_BuiltData.uasset" SILENT=true
+[2018.02.03-20.34.38:059][425]LogSavePackage: Save=30.40ms
+[2018.02.03-20.34.38:059][425]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Untitled_BuiltData2A2AD24A4F0A185EB6715C9C93555D48.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Maps/Untitled_BuiltData.uasset'
+[2018.02.03-20.34.38:063][425]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Maps/Untitled_BuiltData.uasset
+[2018.02.03-20.34.38:071][425]LogFileHelpers: Saving map 'Untitled' took 0.316
+[2018.02.03-20.35.06:274][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/MapElements/warehouse/beems" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems.uasset" SILENT=true
+[2018.02.03-20.35.06:316][ 44]LogSavePackage: Save=37.05ms
+[2018.02.03-20.35.06:317][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beemsA15A9BAE4FC6307E60F92FBB3A25D3AF.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems.uasset'
+[2018.02.03-20.35.06:325][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems.uasset
+[2018.02.03-20.35.06:536][ 44]LogSavePackage: Save=171.88ms
+[2018.02.03-20.35.06:536][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beems_ambient_occlusionB0C16CAA416ADE09DE3DAFB1A0865FD0.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems_ambient_occlusion.uasset'
+[2018.02.03-20.35.06:544][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems_ambient_occlusion.uasset
+[2018.02.03-20.35.06:885][ 44]LogSavePackage: Save=310.68ms
+[2018.02.03-20.35.06:885][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beems_base819F83D3408AB3699993F9B0C5D24F8A.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems_base.uasset'
+[2018.02.03-20.35.06:894][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems_base.uasset
+[2018.02.03-20.35.07:502][ 44]LogSavePackage: Save=573.06ms
+[2018.02.03-20.35.07:502][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/beems_Normal94B69F8A46F9E421578B268745496758.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems_Normal.uasset'
+[2018.02.03-20.35.07:511][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/beems_Normal.uasset
+[2018.02.03-20.35.07:567][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/MapElements/warehouse/floor" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/floor.uasset" SILENT=true
+[2018.02.03-20.35.07:602][ 44]LogSavePackage: Save=30.60ms
+[2018.02.03-20.35.07:602][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/floor5888306F41B2717D82E5BCAC8E114CC4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/floor.uasset'
+[2018.02.03-20.35.07:609][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/floor.uasset
+[2018.02.03-20.35.07:745][ 44]LogSavePackage: Save=100.75ms
+[2018.02.03-20.35.07:745][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Floor_ambient_occlusionFEF59D7242B227DF429A97AF0F2804B1.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Floor_ambient_occlusion.uasset'
+[2018.02.03-20.35.07:748][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Floor_ambient_occlusion.uasset
+[2018.02.03-20.35.08:087][ 44]LogSavePackage: Save=306.52ms
+[2018.02.03-20.35.08:087][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Floor_base30EFE44F48528860C0E8269418D4F769.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Floor_base.uasset'
+[2018.02.03-20.35.08:094][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Floor_base.uasset
+[2018.02.03-20.35.08:471][ 44]LogSavePackage: Save=347.31ms
+[2018.02.03-20.35.08:471][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Floor_MetallicE094B4E44658FBFB036E599551A14A04.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Floor_Metallic.uasset'
+[2018.02.03-20.35.08:478][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Floor_Metallic.uasset
+[2018.02.03-20.35.08:895][ 44]LogSavePackage: Save=383.20ms
+[2018.02.03-20.35.08:895][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Floor_Normal875E80B045D8D3C194846A95A9F9150C.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Floor_Normal.uasset'
+[2018.02.03-20.35.08:900][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Floor_Normal.uasset
+[2018.02.03-20.35.08:947][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/MapElements/warehouse/roof" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof.uasset" SILENT=true
+[2018.02.03-20.35.08:981][ 44]LogSavePackage: Save=30.25ms
+[2018.02.03-20.35.08:981][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof6353E2AE44D978C6A1FD1596D598B143.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof.uasset'
+[2018.02.03-20.35.08:988][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof.uasset
+[2018.02.03-20.35.09:379][ 44]LogSavePackage: Save=362.66ms
+[2018.02.03-20.35.09:379][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof_base72ECE9B148CC89CD9C3189876ED0C850.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof_base.uasset'
+[2018.02.03-20.35.09:388][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof_base.uasset
+[2018.02.03-20.35.09:860][ 44]LogSavePackage: Save=441.83ms
+[2018.02.03-20.35.09:860][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof_MetallicFBAA970348858D094519B0939F9BD4D4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof_Metallic.uasset'
+[2018.02.03-20.35.09:865][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof_Metallic.uasset
+[2018.02.03-20.35.10:221][ 44]LogSavePackage: Save=328.70ms
+[2018.02.03-20.35.10:221][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/roof_NormalF282C2C04B0D44161EFDD9A60B805B5B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof_Normal.uasset'
+[2018.02.03-20.35.10:227][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/roof_Normal.uasset
+[2018.02.03-20.35.10:267][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/MapElements/warehouse/walls" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/walls.uasset" SILENT=true
+[2018.02.03-20.35.10:289][ 44]LogSavePackage: Save=19.62ms
+[2018.02.03-20.35.10:289][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/walls2AEA33744B138A462114F999ECEE0054.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/walls.uasset'
+[2018.02.03-20.35.10:295][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/walls.uasset
+[2018.02.03-20.35.10:468][ 44]LogSavePackage: Save=136.63ms
+[2018.02.03-20.35.10:468][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Walls_ambient_occlusion41079CBB416052F6C2F890AFCF4DEA0E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Walls_ambient_occlusion.uasset'
+[2018.02.03-20.35.10:475][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Walls_ambient_occlusion.uasset
+[2018.02.03-20.35.10:705][ 44]LogSavePackage: Save=198.29ms
+[2018.02.03-20.35.10:705][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Walls_base8436C343402DB66BA7DAF0874B962BF2.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Walls_base.uasset'
+[2018.02.03-20.35.10:712][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Walls_base.uasset
+[2018.02.03-20.35.11:160][ 44]LogSavePackage: Save=420.92ms
+[2018.02.03-20.35.11:160][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Walls_Normal50C11ADA4F9A5568A3435E9A1892635D.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Walls_Normal.uasset'
+[2018.02.03-20.35.11:163][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/Walls_Normal.uasset
+[2018.02.03-20.35.11:265][ 44]LogSavePackage: Save=39.86ms
+[2018.02.03-20.35.11:265][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/warehouse_19189FDF564F91CF79D8E494B491F1E07B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/warehouse_19.uasset'
+[2018.02.03-20.35.11:273][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/warehouse_19.uasset
+[2018.02.03-20.35.11:327][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/MapElements/warehouse/x-beem" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/x-beem.uasset" SILENT=true
+[2018.02.03-20.35.11:355][ 44]LogSavePackage: Save=24.17ms
+[2018.02.03-20.35.11:355][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/x-beem25A6EC214638030641BBDC91C05E36A7.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/x-beem.uasset'
+[2018.02.03-20.35.11:362][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/x-beem.uasset
+[2018.02.03-20.35.11:610][ 44]LogSavePackage: Save=212.68ms
+[2018.02.03-20.35.11:610][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/X_beem_ambient_occlusion2D0992ED48788ACE67807990E3533A09.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/X_beem_ambient_occlusion.uasset'
+[2018.02.03-20.35.11:619][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/X_beem_ambient_occlusion.uasset
+[2018.02.03-20.35.12:569][ 44]LogSavePackage: Save=921.47ms
+[2018.02.03-20.35.12:569][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/X_beem_base176D014F4A8DE9BC631CFB8AA5DCCB02.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/X_beem_base.uasset'
+[2018.02.03-20.35.12:572][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/X_beem_base.uasset
+[2018.02.03-20.35.13:077][ 44]LogSavePackage: Save=475.76ms
+[2018.02.03-20.35.13:077][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/X_beem_Metallic59C54A544DBAED1EC54D1EB32F9CCF20.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/X_beem_Metallic.uasset'
+[2018.02.03-20.35.13:081][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/X_beem_Metallic.uasset
+[2018.02.03-20.35.13:756][ 44]LogSavePackage: Save=644.77ms
+[2018.02.03-20.35.13:756][ 44]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/X_beem_NormalAEC129BB423E76ED7E4E4F829EEEAEAB.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/X_beem_Normal.uasset'
+[2018.02.03-20.35.13:762][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/3D/MapElements/warehouse/X_beem_Normal.uasset
+[2018.02.03-20.35.14:043][ 45]Cmd: QUIT_EDITOR
+[2018.02.03-20.35.14:068][ 45]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.03-20.35.14:093][ 45]LogExit: Preparing to exit.
+[2018.02.03-20.35.15:252][ 45]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/' was aborted.
+[2018.02.03-20.35.15:284][ 45]LogExit: Editor shut down
+[2018.02.03-20.35.15:296][ 45]LogExit: Transaction tracking system shut down
+[2018.02.03-20.35.15:462][ 45]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.03-20.35.15:462][ 45]LogDirectoryWatcher: A directory notification for '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/' was aborted.
+[2018.02.03-20.35.15:463][ 45]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.03-20.35.15:463][ 45]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.03-20.35.15:463][ 45]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.03-20.35.15:463][ 45]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.03-20.35.15:463][ 45]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.03-20.35.15:584][ 45]LogExit: Object subsystem successfully closed.
+[2018.02.03-20.35.15:619][ 45]LogD3D11RHI: Shutdown
+[2018.02.03-20.35.15:619][ 45]LogD3D11RHI: CleanupD3DDevice
+[2018.02.03-20.35.15:623][ 45]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.03-20.35.15:659][ 45]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (556)
+[2018.02.03-20.35.15:659][ 45]LogModuleManager: Shutting down and abandoning module MaterialEditor (554)
+[2018.02.03-20.35.15:659][ 45]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.02.03-20.35.15:659][ 45]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.02.03-20.35.15:659][ 45]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.03-20.35.15:659][ 45]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.03-20.35.15:659][ 45]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.03-20.35.15:661][ 45]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.03-20.35.15:661][ 45]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.03-20.35.15:661][ 45]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.03-20.35.15:661][ 45]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Collections/' was aborted.
+[2018.02.03-20.35.15:661][ 45]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Content/Developers/USER/Collections/' was aborted.
+[2018.02.03-20.35.15:662][ 45]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Saved/Collections/' was aborted.
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.03-20.35.15:662][ 45]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.03-20.35.15:663][ 45]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.03-20.35.15:664][ 45]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.03-20.35.15:665][ 45]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.03-20.35.16:112][ 45]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.03-20.35.16:113][ 45]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.03-20.35.16:167][ 45]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.03-20.35.16:167][ 45]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.03-20.35.16:167][ 45]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.03-20.35.16:167][ 45]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.03-20.35.16:167][ 45]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.03-20.35.16:167][ 45]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.03-20.35.16:167][ 45]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.03-20.35.16:167][ 45]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.03-20.35.16:168][ 45]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.03-20.35.16:168][ 45]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.03-20.35.16:168][ 45]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.03-20.35.16:168][ 45]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.03-20.35.16:168][ 45]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.03-20.35.16:168][ 45]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.03-20.35.16:169][ 45]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.03-20.35.16:321][ 45]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.03-20.35.16:322][ 45]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.03-20.35.16:323][ 45]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.03-20.35.16:323][ 45]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.03-20.35.16:323][ 45]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.03-20.35.16:323][ 45]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.03-20.35.16:323][ 45]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.03-20.35.16:323][ 45]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.03-20.35.16:325][ 45]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.03-20.35.16:325][ 45]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.03-20.35.16:325][ 45]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.03-20.35.16:325][ 45]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarMP1/Binaries/Win64' was aborted.
+[2018.02.03-20.35.16:326][ 45]LogModuleManager: Shutting down and abandoning module TimeWar (270)
+[2018.02.03-20.35.16:327][ 45]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.03-20.35.16:327][ 45]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.03-20.35.16:327][ 45]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.03-20.35.16:327][ 45]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.03-20.35.16:327][ 45]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.03-20.35.16:327][ 45]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.03-20.35.16:327][ 45]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.03-20.35.16:327][ 45]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.03-20.35.16:428][ 45]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.03-20.35.16:528][ 45]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.03-20.35.16:528][ 45]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.03-20.35.16:528][ 45]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.03-20.35.16:528][ 45]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.03-20.35.16:528][ 45]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.03-20.35.16:528][ 45]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.03-20.35.16:530][ 45]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.03-20.35.16:530][ 45]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.03-20.35.16:530][ 45]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.03-20.35.16:530][ 45]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.03-20.35.16:531][ 45]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.03-20.35.16:531][ 45]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.03-20.35.16:531][ 45]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.03-20.35.16:531][ 45]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.03-20.35.16:531][ 45]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.03-20.35.16:531][ 45]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.03-20.35.16:538][ 45]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.03-20.35.16:539][ 45]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.03-20.35.16:539][ 45]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.03-20.35.16:539][ 45]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.03-20.35.16:539][ 45]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.03-20.35.16:539][ 45]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.03-20.35.16:546][ 45]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.03-20.35.16:547][ 45]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.03-20.35.16:547][ 45]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.03-20.35.16:547][ 45]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.03-20.35.16:547][ 45]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.03-20.35.16:547][ 45]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.03-20.35.16:547][ 45]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.03-20.35.16:547][ 45]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.03-20.35.16:549][ 45]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.03-20.35.16:584][ 45]LogDerivedDataCache: Shutdown
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.03-20.35.16:584][ 45]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.03-20.35.16:585][ 45]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.03-20.35.16:586][ 45]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.03-20.35.16:586][ 45]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.03-20.35.16:586][ 45]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC35A3D5E-4E71-B716-4917-B5BB3C425BF6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ec799bd94a0663e17561c09537540a5d%7C00072fce3f5746b4bd1c3dbe4d5b20b6%7C802ca7f4-3e19-4227-a56d-2dc34c402533&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.03-20.35.16:607][ 45]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.03-20.35.16:610][ 45]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.03-20.35.16:610][ 45]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.03-20.35.16:610][ 45]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.03-20.35.16:610][ 45]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.03-20.35.16:610][ 45]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.03-20.35.16:610][ 45]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.03-20.35.16:610][ 45]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.03-20.35.16:613][ 45]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.03-20.35.16:624][ 45]LogExit: Exiting.
+[2018.02.03-20.35.16:645][ 45]Log file closed, 02/03/18 12:35:16
